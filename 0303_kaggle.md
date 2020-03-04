@@ -62,3 +62,23 @@ Kaggle-Titanic
 
 
 
+randomforest 82% / ticket label encoder추가 85%(feature importance가 ticket이 됨.)
+
+logistic 86% /  ''같은 조건"" 87% 됨
+
+knn 82% / 72%나 감소됨....
+
+gradient boosting 86% / 85%로 감소됨
+
+
+
+
+
+`models 중 logistic regression이 제일 정확도가 좋음`
+
+`ticket을 label encoder하니 증가폭은 randomforest가 가장 많음. logistic은 1%증가`
+
+
+
+
+
