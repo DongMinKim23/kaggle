@@ -1,0 +1,5 @@
+Model,Default,Ticket_LabelEncode
+RF,0.82,0.88
+LR,0.87,0.88
+Knn,0.82,0.73
+CLF,0.86,0.86
